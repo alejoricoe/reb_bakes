@@ -33,6 +33,7 @@
     "price": 3.0,
     "image": "./products/crinkles/image2.png",
     "gallery": [
+      "./products/crinkles/image2.png",
       "./products/crinkles/image1.png",
       "./products/crinkles/image3.jpg",
       "./products/crinkles/image4.jpg"
