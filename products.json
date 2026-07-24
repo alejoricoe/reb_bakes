@@ -31,11 +31,11 @@
     "id": "crinkle",
     "name": "Phillipino Style Crinkle",
     "price": 3.0,
-    "image": "./products/crinkle/image2.png",
+    "image": "./products/crinkles/image2.png",
     "gallery": [
-      "./products/crinkle/image1.png",
-      "./products/crinkle/image3.jpg",
-      "./products/crinkle/image4.jpg"
+      "./products/crinkles/image1.png",
+      "./products/crinkles/image3.jpg",
+      "./products/crinkles/image4.jpg"
     ],
     "description": "Delicious banana loaf for whole family to enjoy"
   },
